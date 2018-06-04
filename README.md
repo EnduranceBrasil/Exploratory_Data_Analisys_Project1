@@ -4,7 +4,8 @@ Exploratory Data Analisys - Project 1
 This repository was created to include all codes and graphs to explain the project 1 of "Exploratory Data Analises" course from Coursera website.
 
 
-It includes 
+## It includes 
+
 
 *4 graphs*
 
@@ -15,6 +16,7 @@ Plot2.png
 Plot3.png
 
 Plot4.png
+
 
 *4 codes*
 
